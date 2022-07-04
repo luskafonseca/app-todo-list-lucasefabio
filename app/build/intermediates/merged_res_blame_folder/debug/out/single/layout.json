@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-mergeDebugResources-28:/layout/fragment_main.xml",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-mergeDebugResources-28:/layout/content_main.xml",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/content_main.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-mergeDebugResources-28:/layout/fragment_task.xml",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/fragment_task.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-mergeDebugResources-28:/layout/fragment_category.xml",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/fragment_category.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-mergeDebugResources-28:/layout/fragment_main_category.xml",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/fragment_main_category.xml"
+    }
+]

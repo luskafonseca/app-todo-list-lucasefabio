@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/layout_fragment_task.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/fragment_task.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/layout_fragment_main.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/layout_fragment_main_category.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/fragment_main_category.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/menu_menu_main.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/menu/menu_main.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/layout_content_main.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/content_main.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/drawable-anydpi_ic_action_tasks.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/drawable-anydpi/ic_action_tasks.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/layout_fragment_category.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/layout/fragment_category.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/navigation_nav_graph.xml.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.edu.ifsuldeminas.mch.tarefas2.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "br.edu.ifsuldeminas.mch.tarefas2.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
